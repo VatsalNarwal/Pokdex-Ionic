@@ -1,5 +1,8 @@
 {
   "name": "pokdex-ionic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
   "type": "angular"
 }
